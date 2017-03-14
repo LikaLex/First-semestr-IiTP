@@ -1,1 +1,2 @@
-# Old-labs---Fundamentals-of-algorithmization-and-programming
+#Первый семестр 
+Основы алгоритмизации и программирования
